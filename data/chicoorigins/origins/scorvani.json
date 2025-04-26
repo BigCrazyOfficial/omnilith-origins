@@ -1,5 +1,6 @@
 {
     "name": "Scorvani",
+    "description": "Cunning insectoids born of shadowed woods and twisted bloodlines.\n",
     "powers": [
         "chicoorigins:climbing",
         "chicoorigins:burrower",
