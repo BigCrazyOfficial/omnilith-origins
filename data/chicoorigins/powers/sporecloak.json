@@ -1,0 +1,35 @@
+{
+    "name": "Spore Cloak",
+    "description": "When crouched in greenery, their spores blend them into the flora masking their presence like dew on leaves.\n",
+    "condition": {
+        "type": "origins:and",
+        "conditions": [
+            {
+                "type": "origins:and",
+                "conditions": [
+                    {
+                        "type": "origins:sneaking"
+                    },
+                    {
+                        "type": "origins:in_block",
+                        "block_condition": {
+                            "type": "origins:or",
+                            "conditions": [
+                                {
+                                    "type": "origins:block",
+                                    "block": "minecraft:grass"
+                                },
+                                {
+                                    "type": "origins:block",
+                                    "block": "minecraft:tall_grass"
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    "type": "origins:invisibility",
+    "render_armor": false
+}

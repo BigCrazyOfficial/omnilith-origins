@@ -1,0 +1,12 @@
+{
+    "name": "Soft Flesh",
+    "description": "Their fungal tissues shrivel under heat. Flames consume them faster than flesh or wood.\n",
+    "type": "origins:modify_damage_taken",
+    "damage_condition": {
+        "type": "origins:fire"
+    },
+    "modifier": {
+        "operation": "multiply_total",
+        "value": 0.25
+    }
+}

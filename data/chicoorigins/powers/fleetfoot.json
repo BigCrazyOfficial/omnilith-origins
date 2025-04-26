@@ -1,0 +1,11 @@
+{
+    "name": "Fleetfoot",
+    "description": "The Faedrim move with unnatural speed, as if the earth itself bends to rush beneath their feet.\n",
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "generic.movement_speed",
+        "operation": "multiply_base",
+        "value": 1.2
+    },
+    "update_health": true
+}

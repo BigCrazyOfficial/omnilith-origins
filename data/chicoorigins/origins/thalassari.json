@@ -1,0 +1,14 @@
+{
+    "name": "Thalassari",
+    "powers": [
+        "chicoorigins:gilled",
+        "chicoorigins:aquaticagility",
+        "chicoorigins:pressurized",
+        "origins:aqua_affinity",
+        "chicoorigins:landbound"
+    ],
+    "icon": {
+        "item": "minecraft:nautilus_shell"
+    },
+    "impact": 3
+}

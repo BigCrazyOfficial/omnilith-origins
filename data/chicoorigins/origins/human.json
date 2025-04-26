@@ -1,0 +1,13 @@
+{
+    "name": "Human",
+    "description": "Lacking supernatural gifts or ancestral curses, humans walk the middle road never best, never worst, but always enduring.\n",
+    "powers": [
+        "chicoorigins:versatile",
+        "chicoorigins:efficient_miner"
+    ],
+    "icon": {
+        "item": "minecraft:player_head"
+    },
+    "order": 0,
+    "impact": 1
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Faedrim",
+    "powers": [
+        "chicoorigins:fleetfoot",
+        "chicoorigins:smaller_unyielding",
+        "chicoorigins:ghoststep",
+        "chicoorigins:stronglegs",
+        "chicoorigins:fragile"
+    ],
+    "icon": {
+        "item": "minecraft:cornflower"
+    },
+    "impact": 3
+}

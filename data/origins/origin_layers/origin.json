@@ -1,0 +1,15 @@
+{
+    "origins": [
+        "chicoorigins:human",
+        "chicoorigins:aetherial",
+        "chicoorigins:godkin",
+        "chicoorigins:runeborn",
+        "chicoorigins:mycelari",
+        "chicoorigins:scorvani",
+        "chicoorigins:ashworn",
+        "chicoorigins:faedrim",
+        "chicoorigins:thalassari"
+    ],
+    "enabled": true,
+    "replace": true
+}

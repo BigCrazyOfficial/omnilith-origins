@@ -1,0 +1,13 @@
+{
+    "name": "Burrower",
+    "description": "With hardened claws and digging instincts, Scorvani treat soil and stone like sand easily moved, swiftly tunneled.\n",
+    "type": "origins:modify_break_speed",
+    "block_condition": {
+        "type": "origins:in_tag",
+        "tag": "minecraft:base_stone_overworld"
+    },
+    "modifier": {
+        "operation": "add_base_early",
+        "value": 0.1
+    }
+}

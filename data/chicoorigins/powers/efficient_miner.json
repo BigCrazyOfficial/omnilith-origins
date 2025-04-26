@@ -1,0 +1,9 @@
+{
+    "name": "Efficient Worker",
+    "description": "Generations of survival and labor have honed humans into quick hands and faster thinkers. They waste no movement and chip away at obstacles with uncanny speed.",
+    "type": "origins:modify_break_speed",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 0.1
+    }
+}

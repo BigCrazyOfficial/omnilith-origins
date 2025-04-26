@@ -1,0 +1,14 @@
+{
+    "name": "Shade Bloom",
+    "description": "In the quiet dark, Mycelari thrive. Their bodies absorb ambient dampness and spores heal them when they rest among roots and shadows.\n",
+    "condition": {
+        "inverted": true,
+        "type": "origins:exposed_to_sun"
+    },
+    "type": "origins:action_over_time",
+    "interval": 20,
+    "entity_action": {
+        "type": "origins:heal",
+        "amount": 1
+    }
+}

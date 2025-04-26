@@ -1,0 +1,70 @@
+{
+    "name": "Slippery Form",
+    "description": "Their flexible bodies and illusory nature allow them to contort and compress through spaces too small for thought.\n",
+    "type": "origins:action_on_callback",
+    "entity_action_chosen": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:execute_command",
+                "command": "/scale set pehkui:base .25 @p"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "/scale set pehkui:jump_height 2 @p"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "/scale set pehkui:falling .25 @p"
+            }
+        ]
+    },
+    "execute_chosen_when_orb": true,
+    "entity_action_gained": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:execute_command",
+                "command": "/scale set pehkui:base .25 @p"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "/scale set pehkui:jump_height 2 @p"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "/scale set pehkui:falling .25 @p"
+            }
+        ]
+    },
+    "entity_action_lost": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:execute_command",
+                "command": "/scale set pehkui:jump_height 1 @p"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "/scale set pehkui:base 1 @p"
+            }
+        ]
+    },
+    "entity_action_respawned": {
+        "type": "origins:and",
+        "actions": [
+            {
+                "type": "origins:execute_command",
+                "command": "/scale set pehkui:base .25 @p"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "/scale set pehkui:jump_height 2 @p"
+            },
+            {
+                "type": "origins:execute_command",
+                "command": "/scale set pehkui:falling .25 @p"
+            }
+        ]
+    }
+}

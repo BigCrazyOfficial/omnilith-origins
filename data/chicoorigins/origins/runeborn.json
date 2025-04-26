@@ -1,0 +1,13 @@
+{
+    "name": "Runeborn",
+    "powers": [
+        "chicoorigins:stonehead",
+        "chicoorigins:heavy",
+        "chicoorigins:inorganic",
+        "chicoorigins:inorganic_regen"
+    ],
+    "icon": {
+        "item": "minecraft:deepslate"
+    },
+    "impact": 2
+}

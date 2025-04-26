@@ -1,0 +1,6 @@
+{
+    "name": "Divine Footing",
+    "description": "The earth dares not slow them. Divine ancestry lifts their steps.\n",
+    "type": "origins:effect_immunity",
+    "effect": "minecraft:slowness"
+}

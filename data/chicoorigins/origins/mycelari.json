@@ -1,0 +1,13 @@
+{
+    "name": "Mycelari",
+    "powers": [
+        "chicoorigins:sporecloak",
+        "chicoorigins:shadebloom",
+        "chicoorigins:small_unyielding",
+        "chicoorigins:arson"
+    ],
+    "icon": {
+        "item": "minecraft:mycelium"
+    },
+    "impact": 2
+}

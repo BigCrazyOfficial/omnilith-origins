@@ -1,0 +1,27 @@
+{
+    "name": "Gilled",
+    "description": "Adapted for the deep, Thalassari can breathe the sea and see through its darkness, with eyes like pearls and gills behind their ears.\n",
+    "type": "origins:multiple",
+    "key0": {
+        "condition": {
+            "type": "origins:submerged_in",
+            "fluid": "minecraft:water"
+        },
+        "type": "origins:night_vision",
+        "strength": 1
+    },
+    "key1": {
+        "type": "origins:action_over_time",
+        "interval": 5,
+        "entity_action": {
+            "type": "origins:apply_effect",
+            "effect": {
+                "effect": "minecraft:water_breathing",
+                "duration": 10,
+                "amplifier": 0,
+                "show_particles": false,
+                "show_icon": false
+            }
+        }
+    }
+}

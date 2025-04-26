@@ -1,0 +1,6 @@
+{
+    "name": "Featherstep",
+    "description": "Their footfalls are light enough to never mark the earth. They fall from treetops and cliffs with the gentleness of leaves.\n",
+    "type": "origins:modify_falling",
+    "take_fall_damage": false
+}

@@ -1,0 +1,13 @@
+{
+    "name": "Aetherial",
+    "powers": [
+        "chicoorigins:nofall",
+        "chicoorigins:sneak_float",
+        "chicoorigins:lightbody"
+    ],
+    "icon": {
+        "item": "minecraft:feather"
+    },
+    "order": 1,
+    "impact": 1
+}

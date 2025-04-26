@@ -1,0 +1,9 @@
+{
+    "name": "Strong Legged",
+    "description": "They spring with joy and power, leaping far beyond their tiny frames. Every step is a bounce waiting to happen.\n",
+    "type": "origins:modify_jump",
+    "modifier": {
+        "operation": "add_base_early",
+        "value": 0.1
+    }
+}

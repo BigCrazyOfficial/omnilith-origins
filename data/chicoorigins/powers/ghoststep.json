@@ -1,0 +1,6 @@
+{
+    "name": "Ghoststep",
+    "description": "Their steps leave no sound, not even a whisper. Hunters and prey alike are fooled by their silent dance.\n",
+    "type": "origins:prevent_game_event",
+    "event": "minecraft:step"
+}

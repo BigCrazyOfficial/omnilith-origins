@@ -1,0 +1,11 @@
+{
+    "name": "Versatile",
+    "description": "Humans adapt swiftly to any task, often seen carrying tools, trinkets, and trophies from every walk of life. Their minds are flexible, and their packs are always just a bit roomier for it.",
+    "type": "origins:inventory",
+    "container_type": "dropper",
+    "drop_on_death": true,
+    "key": {
+        "key": "key.origins.primary_active"
+    },
+    "recoverable": true
+}

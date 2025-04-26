@@ -1,0 +1,9 @@
+{
+    "name": "Aquatic Agility",
+    "description": "They twist and dart through water with serpentine grace, leaving barely a ripple.",
+    "type": "origins:modify_swim_speed",
+    "modifier": {
+        "operation": "multiply_base",
+        "value": 2
+    }
+}

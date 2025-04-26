@@ -1,0 +1,23 @@
+{
+    "name": "Light Body",
+    "description": "Aetherial possess delicate, hollow boned physiques designed for grace over durability. They leap like deer and dance on wind—yet bruise as easily as petals.\n",
+    "type": "origins:multiple",
+    "key0": {
+        "type": "origins:attribute",
+        "modifiers": [
+            {
+                "attribute": "generic.max_health",
+                "operation": "addition",
+                "value": -4
+            }
+        ],
+        "update_health": true
+    },
+    "key1": {
+        "type": "origins:modify_jump",
+        "modifier": {
+            "operation": "add_base_early",
+            "value": 0.1
+        }
+    }
+}

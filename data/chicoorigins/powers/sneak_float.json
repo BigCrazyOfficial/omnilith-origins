@@ -1,0 +1,19 @@
+{
+    "name": "Airborne Drift",
+    "description": "Born of starlight and high places, Aetherial instinctively control their descent, gliding like feathers caught in a breeze.\n",
+    "type": "origins:active_self",
+    "entity_action": {
+        "type": "origins:apply_effect",
+        "effect": {
+            "effect": "minecraft:slow_falling",
+            "duration": 20,
+            "amplifier": 0,
+            "show_particles": false,
+            "show_icon": false
+        }
+    },
+    "key": {
+        "key": "key.sneak",
+        "continuous": true
+    }
+}

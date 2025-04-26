@@ -1,0 +1,12 @@
+{
+    "name": "Scorvani",
+    "powers": [
+        "chicoorigins:climbing",
+        "chicoorigins:burrower",
+        "chicoorigins:photosensitive"
+    ],
+    "icon": {
+        "item": "minecraft:stone"
+    },
+    "impact": 2
+}

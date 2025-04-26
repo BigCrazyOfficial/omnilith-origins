@@ -1,0 +1,17 @@
+{
+    "name": "Heavy",
+    "description": "Their weight is their strength and their burden. Runeborn sink like anchors and move like boulders.\n",
+    "type": "origins:multiple",
+    "key0": {
+        "type": "origins:attribute",
+        "modifier": {
+            "attribute": "generic.movement_speed",
+            "operation": "multiply_total",
+            "value": -0.15
+        },
+        "update_health": true
+    },
+    "key2": {
+        "type": "origins:ignore_water"
+    }
+}

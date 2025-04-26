@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "name": "Omnilith Origins",
+        "id": "chicoorigins",
+        "pack_format": 15,
+        "version": "1.0.0",
+        "authors": [
+            "big crazy"
+        ],
+        "description": "comm for Chico <3"
+    }
+}

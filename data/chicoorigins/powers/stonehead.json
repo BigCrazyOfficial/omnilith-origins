@@ -1,0 +1,11 @@
+{
+    "name": "Stonehide",
+    "description": "Forged from enchanted stone and reinforced alloys, Runeborn walk with armor thicker than most ever wear. Their bodies are their bastions.\n",
+    "type": "origins:attribute",
+    "modifier": {
+        "attribute": "generic.armor",
+        "operation": "addition",
+        "value": 4
+    },
+    "update_health": true
+}

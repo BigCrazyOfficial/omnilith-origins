@@ -1,0 +1,6 @@
+{
+    "name": "Blight",
+    "description": "Holy enchantments and sacred blades strike deeper into their cursed forms. Smite magic echoes like judgment.\n",
+    "type": "origins:entity_group",
+    "group": "undead"
+}

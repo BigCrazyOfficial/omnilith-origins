@@ -1,0 +1,23 @@
+{
+    "name": "Empowered Frame",
+    "description": "Their blood carries divine strength, gifting them with unnatural vitality and resistance. When others fall, Godkin remain unyielding and upright.\n",
+    "type": "origins:multiple",
+    "key0": {
+        "type": "origins:attribute",
+        "modifier": {
+            "attribute": "generic.max_health",
+            "operation": "addition",
+            "value": 2
+        },
+        "update_health": true
+    },
+    "key1": {
+        "type": "origins:attribute",
+        "modifier": {
+            "attribute": "generic.knockback_resistance",
+            "operation": "addition",
+            "value": 1
+        },
+        "update_health": true
+    }
+}

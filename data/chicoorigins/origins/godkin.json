@@ -1,0 +1,14 @@
+{
+    "name": "Godkin",
+    "powers": [
+        "chicoorigins:bigboyhours",
+        "chicoorigins:divinefooting",
+        "chicoorigins:divinefootingc",
+        "chicoorigins:unyielding"
+    ],
+    "icon": {
+        "item": "minecraft:enchanted_golden_apple"
+    },
+    "order": 2,
+    "impact": 1
+}
