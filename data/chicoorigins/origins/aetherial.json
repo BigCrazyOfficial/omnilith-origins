@@ -1,5 +1,6 @@
 {
     "name": "Aetherial",
+    "description": "Ethereal beings touched by raw magic and the celestial unknown.\n",
     "powers": [
         "chicoorigins:nofall",
         "chicoorigins:sneak_float",
