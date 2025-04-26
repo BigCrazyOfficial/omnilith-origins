@@ -1,5 +1,6 @@
 {
     "name": "Runeborn",
+    "description": "Ancient constructs given true life by the goddess Crea.",
     "powers": [
         "chicoorigins:stonehead",
         "chicoorigins:heavy",
