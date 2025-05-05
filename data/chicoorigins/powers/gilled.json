@@ -8,7 +8,7 @@
             "fluid": "minecraft:water"
         },
         "type": "origins:night_vision",
-        "strength": 1
+        "strength": 2
     },
     "key1": {
         "type": "origins:action_over_time",
